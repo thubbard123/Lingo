@@ -1,0 +1,488 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Stylesheet html5ComponentsEnabled="true" html5TopEnabled="true" webHelpEnabled="true" xml:lang="en-us">
+    <Styles>
+        <Style Name="ToolbarItem">
+            <Properties />
+            <Classes>
+                <StyleClass Name="Print">
+                    <Properties>
+                        <Property Name="AltText">砻קยด1ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="ExpandAll">
+                    <Properties>
+                        <Property Name="AltText">砻קยด2ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="CollapseAll">
+                    <Properties>
+                        <Property Name="AltText">砻קยด3ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="RemoveHighlight">
+                    <Properties>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="PreviousTopic">
+                    <Properties>
+                        <Property Name="AltText">砻קยด4ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="NextTopic">
+                    <Properties>
+                        <Property Name="AltText">砻קยด5ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="CurrentTopicIndex">
+                    <Properties>
+                        <Property Name="Format">砻קยด6ตว融</Property>
+                        <Property Name="Label">砻קยด7ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Login">
+                    <Properties>
+                        <Property Name="Tooltip">砻קยด8ตว融</Property>
+                        <Property Name="AltText">砻קยด9ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="EditUserProfile">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="TopicRatings">
+                    <Properties>
+                        <Property Name="AltText">砻קยด10ตว融</Property>
+                        <Property Name="RatingSubmittedMessage">砻קยด11ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="TopicRatingsEmpty">
+                    <Properties>
+                        <Property Name="Tooltip">砻קยด12ตว融</Property>
+                        <Property Name="AltText">砻קยด13ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="SelectSkin">
+                    <Properties>
+                        <Property Name="AltText">砻קยด14ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="SelectLanguage">
+                    <Properties>
+                        <Property Name="AltText">砻קยด15ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="QuickSearch">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="Logo">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="ToggleNavigationPane">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="Back">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="Forward">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="Home">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="Stop">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="Refresh">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="SelectTOC">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="SelectIndex">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="SelectSearch">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="SelectFavorites">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="SelectGlossary">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="SelectBrowseSequence">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="SelectCommunity">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="AddTopicToFavorites">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="Separator">
+                    <Properties />
+                </StyleClass>
+            </Classes>
+        </Style>
+        <Style Name="Search Heading">
+            <Properties>
+                <Property Name="Format">砻קยด16ตว融</Property>
+            </Properties>
+        </Style>
+        <Style Name="Search Suggestion">
+            <Properties>
+                <Property Name="Format">砻קยด17ตว融</Property>
+            </Properties>
+        </Style>
+        <Style Name="Search Pagination Item">
+            <Classes>
+                <StyleClass Name="Previous">
+                    <Properties>
+                        <Property Name="Label">砻קยด18ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Next">
+                    <Properties>
+                        <Property Name="Label">砻קยด19ตว融</Property>
+                    </Properties>
+                </StyleClass>
+            </Classes>
+        </Style>
+        <Style Name="Search Input">
+            <Properties>
+                <Property Name="Placeholder">砻קยด20ตว融</Property>
+                <Property Name="Accessibility Label">砻קยด21ตว融</Property>
+            </Properties>
+        </Style>
+        <Style Name="Search Filter">
+            <Properties>
+                <Property Name="Label">砻קยด22ตว融</Property>
+                <Property Name="Accessibility Label">砻קยด23ตว融</Property>
+            </Properties>
+        </Style>
+        <Style Name="Search Filter Selector">
+            <Properties>
+                <Property Name="Accessibility Label">砻קยด24ตว融</Property>
+            </Properties>
+        </Style>
+        <Style Name="Search Submit Button">
+            <Properties>
+                <Property Name="Tooltip">砻קยด25ตว融</Property>
+                <Property Name="Accessibility Label">砻קยด26ตว融</Property>
+            </Properties>
+        </Style>
+        <Style Name="Search Auto-complete Item">
+            <Classes>
+                <StyleClass Name="Search History">
+                    <Properties>
+                        <Property Name="Accessibility Label">砻קยด27ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Project Content">
+                    <Properties>
+                        <Property Name="Accessibility Label">砻קยด28ตว融</Property>
+                    </Properties>
+                </StyleClass>
+            </Classes>
+        </Style>
+        <Style Name="Search Auto-complete Item: Description">
+            <Classes>
+                <StyleClass Name="Search History">
+                    <Properties>
+                        <Property Name="Label">砻קยด29ตว融</Property>
+                    </Properties>
+                </StyleClass>
+            </Classes>
+        </Style>
+        <Style Name="Pulse Frame">
+            <Properties>
+                <Property Name="Accessibility Label">砻קยด30ตว融</Property>
+            </Properties>
+        </Style>
+        <Style Name="Logo">
+            <Properties>
+                <Property Name="AltText">砻קยด31ตว融</Property>
+            </Properties>
+        </Style>
+        <Style Name="Skip to Content">
+            <Properties>
+                <Property Name="Label">砻קยด32ตว融</Property>
+            </Properties>
+        </Style>
+        <Style Name="Central Account Link">
+            <Properties>
+                <Property Name="Label">砻קยด33ตว融</Property>
+            </Properties>
+        </Style>
+        <Style Name="Central Account Settings Link">
+            <Properties>
+                <Property Name="Label">砻קยด34ตว融</Property>
+            </Properties>
+        </Style>
+        <Style Name="Central Account Logout Link">
+            <Properties>
+                <Property Name="Label">砻קยด35ตว融</Property>
+            </Properties>
+        </Style>
+        <Style Name="Show Navigation Panel">
+            <Properties>
+                <Property Name="Accessibility Label">砻קยด36ตว融</Property>
+            </Properties>
+        </Style>
+        <Style Name="Navigation Panel Item">
+            <Classes>
+                <StyleClass Name="Back">
+                    <Properties>
+                        <Property Name="Label">砻קยด37ตว融</Property>
+                    </Properties>
+                </StyleClass>
+            </Classes>
+        </Style>
+        <Style Name="Breadcrumbs">
+            <Properties>
+                <Property Name="Accessibility Label">砻קยด38ตว融</Property>
+            </Properties>
+        </Style>
+        <Style Name="Home Button">
+            <Properties>
+                <Property Name="LabelWithNoneOption">砻קยด39ตว融</Property>
+            </Properties>
+        </Style>
+        <Style Name="Navigation Element">
+            <Classes>
+                <StyleClass Name="TOC - Home Page Row">
+                    <Properties>
+                        <Property Name="LabelWithNoneOption">砻קยด40ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Index - Home Page Row">
+                    <Properties>
+                        <Property Name="LabelWithNoneOption">砻קยด41ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Glossary - Home Page Row">
+                    <Properties>
+                        <Property Name="LabelWithNoneOption">砻קยด42ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Browse Sequence - Home Page Row">
+                    <Properties>
+                        <Property Name="LabelWithNoneOption">砻קยด43ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="About - Home Page Row">
+                    <Properties>
+                        <Property Name="LabelWithNoneOption">砻קยด44ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Index Page">
+                    <Properties>
+                        <Property Name="SeeReference">砻קยด45ตว融</Property>
+                        <Property Name="SeeAlsoReference">砻קยด46ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Search Results Page">
+                    <Properties>
+                        <Property Name="NoResultsFoundString">砻קยด47ตว融</Property>
+                        <Property Name="SearchErrorString">砻קยด48ตว融</Property>
+                    </Properties>
+                </StyleClass>
+            </Classes>
+        </Style>
+        <Style Name="Search Button">
+            <Properties />
+        </Style>
+        <Style Name="Formats">
+            <Properties>
+                <Property Name="CodeSnippetCopyButtonText">砻קยด49ตว融</Property>
+                <Property Name="CrossReferenceFormat">砻קยด50ตว融</Property>
+                <Property Name="CrossReferencePrintFormat">砻קยด51ตว融</Property>
+                <Property Name="CrossReferenceBelow">砻קยด52ตว融</Property>
+                <Property Name="CrossReferenceAbove">砻קยด53ตว融</Property>
+                <Property Name="CrossReferenceOnPage">砻קยด54ตว融</Property>
+                <Property Name="CrossReferenceOnPreviousPage">砻קยด55ตว融</Property>
+                <Property Name="CrossReferenceOnNextPage">砻קยด56ตว融</Property>
+                <Property Name="CrossReferenceOnFacingPage">砻קยด57ตว融</Property>
+                <Property Name="BreadcrumbsYouAreHereText">砻קยด58ตว融</Property>
+                <Property Name="KeywordLinkText">砻קยด59ตว融</Property>
+                <Property Name="KeywordLinkIconAltText">砻קยด60ตว融</Property>
+                <Property Name="RelatedTopicsText">砻קยด61ตว融</Property>
+                <Property Name="RelatedTopicsIconAltText">砻קยด62ตว融</Property>
+                <Property Name="ConceptLinkText">砻קยด63ตว融</Property>
+                <Property Name="ConceptLinkIconAltText">砻קยด64ตว融</Property>
+                <Property Name="DropDownOpenAltText">砻קยด65ตว融</Property>
+                <Property Name="DropDownClosedAltText">砻קยด66ตว融</Property>
+                <Property Name="ExpandingOpenAltText">砻קยด67ตว融</Property>
+                <Property Name="ExpandingClosedAltText">砻קยด68ตว融</Property>
+                <Property Name="GlossaryTermOpenAltText">砻קยด69ตว融</Property>
+                <Property Name="GlossaryTermClosedAltText">砻קยด70ตว融</Property>
+                <Property Name="TogglerOpenAltText">砻קยด71ตว融</Property>
+                <Property Name="TogglerClosedAltText">砻קยด72ตว融</Property>
+            </Properties>
+        </Style>
+        <Style Name="Relationships">
+            <Properties />
+            <Classes>
+                <StyleClass Name="concept">
+                    <Properties>
+                        <Property Name="Label">砻קยด73ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="task">
+                    <Properties>
+                        <Property Name="Label">砻קยด74ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="reference">
+                    <Properties>
+                        <Property Name="Label">砻קยด75ตว融</Property>
+                    </Properties>
+                </StyleClass>
+            </Classes>
+        </Style>
+        <Style Name="TocEntry">
+            <Properties />
+        </Style>
+        <Style Name="IndexEntry">
+            <Properties />
+        </Style>
+        <Style Name="AccordionItem">
+            <Properties />
+            <Classes>
+                <StyleClass Name="TOC">
+                    <Properties>
+                        <Property Name="Label">砻קยด76ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Index">
+                    <Properties>
+                        <Property Name="Label">砻קยด77ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Favorites">
+                    <Properties>
+                        <Property Name="Label">砻קยด78ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Glossary">
+                    <Properties>
+                        <Property Name="Label">砻קยด79ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="BrowseSequence">
+                    <Properties>
+                        <Property Name="Label">砻קยด80ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Search">
+                    <Properties>
+                        <Property Name="Label">砻קยด81ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Community">
+                    <Properties>
+                        <Property Name="Label">砻קยด82ตว融</Property>
+                    </Properties>
+                </StyleClass>
+            </Classes>
+        </Style>
+        <Style Name="Frame">
+            <Classes>
+                <StyleClass Name="BodyComments">
+                    <Properties>
+                        <Property Name="Label">砻קยด83ตว融</Property>
+                    </Properties>
+                </StyleClass>
+            </Classes>
+        </Style>
+        <Style Name="Control">
+            <Classes>
+                <StyleClass Name="SearchButton">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="SearchBox">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="SearchFiltersLabel">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="SearchUnfilteredLabel">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="SearchFavoritesLabel">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="TopicFavoritesLabel">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="SearchFavoritesDeleteButton">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="TopicFavoritesDeleteButton">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="EmptySearchFavoritesLabel">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="EmptyTopicFavoritesLabel">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="AddSearchToFavoritesButton">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="IndexSearchBox">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="SearchResults">
+                    <Properties>
+                        <Property Name="TableSummary">砻קยด84ตว融</Property>
+                        <Property Name="RankLabel">砻קยด85ตว融</Property>
+                        <Property Name="TitleLabel">砻קยด86ตว融</Property>
+                        <Property Name="TopicResultsLabel">砻קยด87ตว融</Property>
+                        <Property Name="CommunityResultsLabel">砻קยด88ตว融</Property>
+                        <Property Name="ShowAllCommunityResults">砻קยด89ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Messages">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="CommentsAddButton">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="CommentsReplyButton">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="CommentsRefreshButton">
+                    <Properties />
+                </StyleClass>
+                <StyleClass Name="NavigationLinkTop">
+                    <Properties>
+                        <Property Name="Label">砻קยด90ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="NavigationLinkBottom">
+                    <Properties>
+                        <Property Name="Label">砻קยด91ตว融</Property>
+                    </Properties>
+                </StyleClass>
+            </Classes>
+        </Style>
+        <Style Name="Dialog">
+            <Properties />
+            <Classes>
+                <StyleClass Name="AddComment">
+                    <Properties>
+                        <Property Name="CommentLengthExceeded">砻קยด92ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="ReplyComment">
+                    <Properties>
+                        <Property Name="CommentLengthExceeded">砻קยด93ตว融</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="RegisterUser">
+                    <Properties />
+                </StyleClass>
+            </Classes>
+        </Style>
+    </Styles>
+</Stylesheet>
